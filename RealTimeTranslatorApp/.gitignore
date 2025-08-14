@@ -1,3 +1,6 @@
 node_modules/
+.idea/
 *.log
 .DS_Store
+android/build/
+android/app/build/
