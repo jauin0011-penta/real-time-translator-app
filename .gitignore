@@ -1,1 +1,10 @@
-"node_modules/" 
+node_modules
+.idea
+*.log
+.DS_Store
+android/build
+android/app/build
+package.json
+yarn.lock
+package-lock.json
+node_modules
